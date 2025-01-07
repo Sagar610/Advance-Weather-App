@@ -73,13 +73,13 @@ This is a simple React application that allows users to search for current weath
 
 ## Example Screenshots
 
-### Input Section
+<!-- ### Input Section
 ![Input Section Screenshot](#)
 
 ### Weather Display Section
 ![Weather Display Screenshot](#)
 
-_Replace `#` with links to your screenshots._
+_Replace `#` with links to your screenshots._ -->
 
 ## Known Issues
 
